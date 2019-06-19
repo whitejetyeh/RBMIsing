@@ -1,7 +1,7 @@
 # RBMIsing
 
 ## Description:
-RBMIsing studies how does unsupervised learning acquire features from the prospective of physics. 
+RBMIsing studies how does unsupervised learning acquire features from the perspective of physics. 
 I trained a Restrictive Boltzmann Machine (RBM) to extract features of stochastic binary values on a grid and identify the phase transition without prior knowledge of the stochastic distributions.
 The learning of RBM is compared with the coarse-graining process in renormalization group. I demonstrated the hidden state of RBM is not the proper counterpart of the coarse-grained input as the original proposition in arXiv:1410.3831, but the RBM reconstructed visual state is the counterpart of the rescaled and coarse-grained input.
 
